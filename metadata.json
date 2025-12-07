@@ -1,0 +1,5 @@
+{
+  "name": "AudioCyber Forge",
+  "description": "A cyberpunk-themed interface for optimizing audiobook audio quality using advanced FFmpeg filter chains.",
+  "requestFramePermissions": []
+}
